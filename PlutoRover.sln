@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlutoRover", "PlutoRover\PlutoRover.csproj", "{BAA93581-CDF5-46CD-B3B7-765798F5DD0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAA93581-CDF5-46CD-B3B7-765798F5DD0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAA93581-CDF5-46CD-B3B7-765798F5DD0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAA93581-CDF5-46CD-B3B7-765798F5DD0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAA93581-CDF5-46CD-B3B7-765798F5DD0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B8DF8F0-1DD4-441D-8BC1-D1B68D17F458}
+	EndGlobalSection
+EndGlobal
