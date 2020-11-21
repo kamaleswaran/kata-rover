@@ -1,6 +1,6 @@
-# PlutoRoverAfter
+# PlutoRover
 
-NASA’s New Horizon successfully flew past Pluto, they now plan to land a Pluto Roverto further investigate the surface. You are responsible for developing an API that will allowthe Rover to move around the planet. As you won’t get a chance to fix your code once it isonboard, you are expected to use test driven development.
+After NASA’s New Horizon successfully flew past Pluto, they now plan to land a Pluto Roverto further investigate the surface. You are responsible for developing an API that will allowthe Rover to move around the planet. As you won’t get a chance to fix your code once it isonboard, you are expected to use test driven development.
 
 To simplify navigation, the planet has been divided up into a grid. The rover's position andlocation is represented by a combination of x and y coordinates and a letter representing one of the four cardinal compass points. An example position might be 0, 0, N, which means therover is in the bottom left corner and facing North. Assume that the square directly Northfrom (x, y) is (x, y+1).
 
